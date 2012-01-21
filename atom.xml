@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[lifeclaw studio]]></title>
+  <link href="http://lifeclaw.github.com/atom.xml" rel="self"/>
+  <link href="http://lifeclaw.github.com/"/>
+  <updated>2011-11-22T00:24:42+08:00</updated>
+  <id>http://lifeclaw.github.com/</id>
+  <author>
+    <name><![CDATA[Joey Chou]]></name>
+    <email><![CDATA[lifeclaw@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
